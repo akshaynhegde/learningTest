@@ -1,0 +1,4 @@
+[Project]
+Name=testingGitC
+Manager=KDevCMakeManager
+VersionControl=kdevgit
